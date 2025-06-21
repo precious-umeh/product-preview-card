@@ -8,8 +8,9 @@ This is a product preview card with the product image on the left and the produc
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/responsive-product-preview-card-using-css-grid-WbfxH1PHrD)
+
+- [Live site URL](https://precious-umeh.github.io/product-preview-card/)
 
 ## My process
 
@@ -22,13 +23,13 @@ This is a product preview card with the product image on the left and the produc
 
 ### What I learned
 
-Two images were provided in this project, one for the desktop version and the other for the mobile version. I learnt how to apply the two images that it became responsive for both the mobile and desktop version by making use of the HTML source element and the srcset and media attributes.
+Two images were provided in this project, one for the desktop version and the other for the mobile version. I learnt how to apply the two images that it became responsive for both the mobile and desktop version by making use of the HTML picture/source element and the srcset and media attributes.
 
 Also, through this project i added an image into the anchor tag and also made it a flex container to align the image and text.
 
 ### Continued development
 
-I look forward in making using of the HTML "source" element in subsequent projects to display images.
+I look forward in making using of the HTML "picture/source" element in subsequent projects to display images.
 
 ## Author
 
